@@ -12,7 +12,7 @@ These are people outside of Texas A&M, or at least outside of the EE department.
 
 For high school students, they could be reading the EE curriculum, and maybe this is what makes them pick EE/CE.  Same for transfer students.
 
-*** User stories
+*** Stories
 
 **** High school student
 
@@ -26,7 +26,7 @@ I want to know that the A&M degree is worth the investment.
 
 Texas A&M has now a general engineering section, where students then apply to the specific engineering department.
 
-*** User stories
+*** Stories
 
 As a current engineering student, I want to pick out cool design ideas for senior design.  I also want to know more about how it works.  [How detailed?]
 
@@ -34,7 +34,7 @@ As a current engineering student, I want to pick out cool design ideas for senio
 
 These are the people that will be posting to to the landing page.
 
-*** User stories
+*** Stories
 
 As a beginning EE senior, I want to get some inspiration for senior design ideas.  I also want to get the details on how my upperclassmates completed their senior design project.
 
@@ -44,6 +44,6 @@ As a soon to be graduate EE senior, I want to use my project for my interviews. 
 
 These are people who teach the course, or at least have admin rights over it.  They'll do the maintaining of the site (?).
 
-*** User stories
+*** Stories
 
 As an admin, I need a CMS system for me to add, remove, or change the project.
