@@ -1,0 +1,45 @@
+* Users
+
+There are four main users of our landing page.
+- Prospective A&M students
+- EE or Engineering students
+- Current senior design students
+- Landing page maintainer / TA / PT / Professors
+
+** People outside of Texas A&M
+
+These are people outside of Texas A&M, or at least outside of the EE department.  They want to find out what the capstone program is, and see projects our students make to cap off their degree.  As in: what can I build if I take get a bachelor's of EE/CE at A&M?
+
+For high school students, they could be reading the EE curriculum, and maybe this is what makes them pick EE/CE.  Same for transfer students.
+
+*** User stories
+
+**** High school student
+
+I want to be amazed at what I can build after 4 (or 5) years of schooling.  Something that blows me away, knocks the socks off my feet.  I also want know that I can potentially build it.
+
+**** Parent
+
+I want to know that the A&M degree is worth the investment.
+
+** Current engineering students
+
+Texas A&M has now a general engineering section, where students then apply to the specific engineering department.
+
+** Current senior design students
+
+These are the people that will be posting to to the landing page.
+
+*** User stories
+
+As a beginning EE senior, I want to get some inspiration for senior design ideas.  I also want to get the details on how my upperclassmates completed their senior design project.
+
+As a soon to be graduate EE senior, I want to use my project for my interviews.  I want to link my project landing page for anyone who's interesting the work I've done.  I also want to link (maybe linkedIn?) a way to contact me or my team for feedback on the project.  I want to highlight how I contributed to the project.
+
+** Adminstrators
+
+These are people who teach the course, or at least have admin rights over it.  They'll do the maintaining of the site (?).
+
+*** User stories
+
+As an admin, I need a CMS system for me to add, remove, or change the project.
