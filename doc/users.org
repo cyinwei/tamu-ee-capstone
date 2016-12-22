@@ -26,6 +26,10 @@ I want to know that the A&M degree is worth the investment.
 
 Texas A&M has now a general engineering section, where students then apply to the specific engineering department.
 
+*** User stories
+
+As a current engineering student, I want to pick out cool design ideas for senior design.  I also want to know more about how it works.  [How detailed?]
+
 ** Current senior design students
 
 These are the people that will be posting to to the landing page.
